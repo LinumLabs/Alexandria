@@ -2,6 +2,7 @@
 
 ## Glossary
 The deffinitions for the various different ERC/ECR/EIP's categories.
+
 | Term | Definition |
 |-----:|:-----------|
 | DID  | *Decentralized Identifiers (DIDs) are a new type of identifier for verifiable, "self-sovereign" digital identity.* |
