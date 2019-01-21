@@ -10,6 +10,7 @@ The deffinitions for the various different ERC/ECR/EIP's categories.
 
 ## Index
 The standards that have currently been researched
+
 | Standard | Type | Summary | Ethereum repo | document |
 |---------:|:----:|:-------:|:-------------:|:---------|
 |**ERC725**| DID  | A _"Proxy contract for key management and execution, to establish a Blockchain identity." - `ERC725`_ The `ERC725` was made with a single focus, to manage identities. Its counterpart `ERC735` manages claims on those identities. The identity created by an `ERC725` can hold keys to sign actions and claims. The `ERC725` also has a proxy function to act directly on the blockchain. Claims can be attested from third parties, or self-attested (through `ERC735`).  | [#725](https://github.com/ethereum/EIPs/issues/725) | [here]() |
