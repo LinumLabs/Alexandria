@@ -1,7 +1,7 @@
 # Index of standards 
 
 ## Glossary
-The deffinitions for the various different ERC/ECR/EIP's categories.
+The definitions for the various ERC/ECR/EIP's categories.
 
 | Term | Definition |
 |-----:|:-----------|
@@ -12,7 +12,7 @@ The deffinitions for the various different ERC/ECR/EIP's categories.
 ## Index
 The standards that have currently been researched
 
-| Standard | Type | Summary | Ethereum repo | document |
+| Standard | Type | Summary | Ethereum repository | document |
 |---------:|:----:|:-------:|:-------------:|:---------|
 |**ERC725**| DID  | A _"Proxy contract for key management and execution, to establish a Blockchain identity." - `ERC725`_ The `ERC725` was made with a single focus, to manage identities. Its counterpart `ERC735` manages claims on those identities. The identity created by an `ERC725` can hold keys to sign actions and claims. The `ERC725` also has a proxy function to act directly on the blockchain. Claims can be attested from third parties, or self-attested (through `ERC735`).  | [#725](https://github.com/ethereum/EIPs/issues/725) | [here](https://github.com/LinumLabs/Alexandria/blob/master/EthereumResearch/ERC725.md) |
 |**ERC735**| (Claim) Registry | A _"Standard function for adding, removing and holding of claims. These claims can"_ (be) _"attested"_ (by) _"third parties (issuers) or self attested." - `ERC735`_. The `ERC735` standard deals with the management, creation, approval etc of claims.  | [#735](https://github.com/ethereum/EIPs/issues/735) | [here](https://github.com/LinumLabs/Alexandria/blob/master/EthereumResearch/ERC735.md) |
